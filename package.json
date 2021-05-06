@@ -26,7 +26,7 @@
     "font-awesome": "^4.7.0",
     "forwarded": "^0.1.2",
     "fresh": "^0.5.2",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "hoek": "^5.0.4",
     "jquery": "^3.5.1",
     "lodash": "^4.17.15",
